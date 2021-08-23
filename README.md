@@ -8,12 +8,12 @@ Kullanımı kolaydır
 python3 sms-tool.py
 
 
+`----------------------------------`
 
-
-En `English`\n
+En `English`
 
 `-`Sms tool allows you to send free sms once a day (it increases if you change ip or use vpn)
 
-Easy to use \n
+Easy to use 
 
 python3 sms-tool.py
